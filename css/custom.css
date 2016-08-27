@@ -1,0 +1,146 @@
+body{
+	background-color: #fff;
+	font-family: 'OpenSans';
+	margin: 0;
+}
+h1{
+	font-family:impact;
+}
+nav ul{
+	border 		: solid 1px black;
+
+	list-style 	: none;
+	margin 		: 0px;
+	padding 	: 0px;s
+}
+
+nav ul li a{
+	border 		: solid 0px black;
+	width 		: 25%;
+	float 		: left;
+	text-align 	: center;
+	background 	: #9099A2;	
+	padding-top : 10px;
+	padding-bottom : 10px;
+	position: top
+}
+
+
+nav ul li a{
+	font-family: impact;	
+	color: #E1E3E6;	
+}
+
+
+p {
+	color: #585858;
+	font-size: 16px;
+	line-height: 24px;
+	margin: 0 0 300px;
+}
+
+#box {
+	background: url(../images/line.jpg) repeat-x left top;
+	height: 380px;
+	padding: 60px 0;
+
+}
+#box > div {
+	width: 800px;
+	margin: 0 auto;
+	padding: 0 80px;
+
+}
+#box > div img {
+	float: right;
+	margin-left: 60px;
+}
+#box h1, #box h2 {
+	color: #2c2c2c;
+	font-size: 60px;
+	line-height: 60px;
+	margin: 0;
+	text-transform: uppercase;
+}
+#box h2 {
+	font-size: 30px;
+	line-height: 36px;
+	text-transform: none;
+}
+#box p {
+	font-size: 16px;
+	line-height: 24px;
+	margin: 0;
+}
+
+#box2 {
+	background: url(../images/line.jpg) repeat-x left top;
+	height: 380px;
+	padding: 60px 0;
+}
+#box2 > div {
+	width: 1000px;
+	margin: 0 left;
+	padding: 0 80px;
+
+}
+
+
+#box2 > div img {
+	float: right;
+	margin-left: 120px;
+}
+#box2 h1, #box2 h2 {
+	color: #2c2c2c;
+	font-size: 60px;
+	line-height: 60px;
+	margin: 0;
+	text-transform: uppercase;
+}
+#box2 h2 {
+	font-size: 30px;
+	line-height: 36px;
+	text-transform: none;
+}
+#box2 p {
+	font-size: 16px;
+	line-height: 24px;
+	margin: 0;
+}
+
+
+#box3 {
+	background: url(../images/line.jpg) repeat-x left top;
+	height: 380px;
+	padding: 60px 0;
+}
+#box3 > div {
+	width: 1000px;
+	margin: 0 right;
+	padding: 0 80px;
+	float: right;
+
+}
+
+
+#box3 > div img {
+	float: right;
+	margin-left: 60px;
+}
+#box3 h1, #box3 h2 {
+	color: #2c2c2c;
+	font-size: 60px;
+	line-height: 60px;
+	margin: 0;
+	text-transform: uppercase;
+}
+#box3 h2 {
+	font-size: 30px;
+	line-height: 36px;
+	text-transform: none;
+}
+#box3  p {
+	font-size: 16px;
+	line-height: 24px;
+	margin: 0;
+}
